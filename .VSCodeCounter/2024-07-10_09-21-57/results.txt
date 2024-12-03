@@ -1,0 +1,92 @@
+Date : 2024-07-10 09:21:57
+Directory : c:\Users\Anderson\Desktop\MI_FINQUITA
+Total : 47 files,  7625 codes, 11 comments, 792 blanks, all 8428 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |      3,569 |          0 |          2 |      3,571 |
+| YAML               |          1 |      2,099 |          0 |        584 |      2,683 |
+| JavaScript         |         15 |      1,157 |          5 |         80 |      1,242 |
+| vue                |         25 |        758 |          6 |        111 |        875 |
+| Markdown           |          1 |         18 |          0 |         12 |         30 |
+| HTML               |          1 |         13 |          0 |          1 |         14 |
+| JSON with Comments |          1 |          8 |          0 |          1 |          9 |
+| CSS                |          1 |          3 |          0 |          1 |          4 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         47 |      7,625 |         11 |        792 |      8,428 |
+| . (Files)                                                                 |         10 |      5,766 |          2 |        607 |      6,375 |
+| src                                                                       |         37 |      1,859 |          9 |        185 |      2,053 |
+| src (Files)                                                               |          2 |         34 |          0 |          8 |         42 |
+| src\assets                                                                |          1 |          3 |          0 |          1 |          4 |
+| src\components                                                            |         13 |        332 |          6 |         30 |        368 |
+| src\composables                                                           |          1 |         36 |          2 |          5 |         43 |
+| src\config                                                                |          1 |         10 |          0 |          3 |         13 |
+| src\data                                                                  |          1 |        482 |          0 |          0 |        482 |
+| src\helpers                                                               |          1 |         12 |          0 |          2 |         14 |
+| src\router                                                                |          1 |        107 |          0 |          4 |        111 |
+| src\stores                                                                |          5 |        423 |          1 |         54 |        478 |
+| src\views                                                                 |         11 |        420 |          0 |         78 |        498 |
+| src\views (Files)                                                         |          4 |        126 |          0 |         15 |        141 |
+| src\views\admin                                                           |          7 |        294 |          0 |         63 |        357 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                  | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Anderson\Desktop\MI_FINQUITA\README.md                           | Markdown           |         18 |          0 |         12 |         30 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\formkit.config.js                   | JavaScript         |         23 |          0 |          2 |         25 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\index.html                          | HTML               |         13 |          0 |          1 |         14 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\jsconfig.json                       | JSON with Comments |          8 |          0 |          1 |          9 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\package-lock.json                   | JSON               |      3,534 |          0 |          1 |      3,535 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\package.json                        | JSON               |         35 |          0 |          1 |         36 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\pnpm-lock.yaml                      | YAML               |      2,099 |          0 |        584 |      2,683 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\postcss.config.js                   | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\App.vue                         | vue                |          6 |          0 |          3 |          9 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\assets\main.css                 | CSS                |          3 |          0 |          1 |          4 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\AdminNav.vue         | vue                |         24 |          3 |          1 |         28 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\Amout.vue            | vue                |         11 |          0 |          4 |         15 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\CouponForm.vue       | vue                |         14 |          0 |          1 |         15 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\Link.vue             | vue                |         13 |          0 |          2 |         15 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\ListItemCartShop.vue | vue                |         30 |          0 |          3 |         33 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\Logo.vue             | vue                |          6 |          0 |          2 |          8 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\MainNav.vue          | vue                |         51 |          3 |          5 |         59 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\Product.vue          | vue                |         39 |          0 |          3 |         42 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\ProductCard.vue      | vue                |         27 |          0 |          2 |         29 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\SalesDetails.vue     | vue                |         43 |          0 |          3 |         46 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\ShoppingCart.vue     | vue                |         42 |          0 |          1 |         43 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\ShoppingCartItem.vue | vue                |         32 |          0 |          2 |         34 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\components\ShowAlert.vue        | vue                |          0 |          0 |          1 |          1 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\composables\useImage.js         | JavaScript         |         36 |          2 |          5 |         43 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\config\firebase.js              | JavaScript         |         10 |          0 |          3 |         13 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\data\products.js                | JavaScript         |        482 |          0 |          0 |        482 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\helpers\index.js                | JavaScript         |         12 |          0 |          2 |         14 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\main.js                         | JavaScript         |         28 |          0 |          5 |         33 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\router\index.js                 | JavaScript         |        107 |          0 |          4 |        111 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\stores\auth.js                  | JavaScript         |        112 |          0 |         13 |        125 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\stores\cart.js                  | JavaScript         |        130 |          1 |         15 |        146 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\stores\coupons.js               | JavaScript         |         48 |          0 |          9 |         57 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\stores\products.js              | JavaScript         |        104 |          0 |         13 |        117 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\stores\sales.js                 | JavaScript         |         29 |          0 |          4 |         33 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\LoginView.vue             | vue                |         51 |          0 |          7 |         58 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\NotFound.vue              | vue                |         13 |          0 |          1 |         14 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\Register.vue              | vue                |         43 |          0 |          6 |         49 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\ShopView.vue              | vue                |         19 |          0 |          1 |         20 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\AdminLayout.vue     | vue                |          9 |          0 |          1 |         10 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\Checkout.vue        | vue                |         19 |          0 |          1 |         20 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\EditProductView.vue | vue                |         80 |          0 |         22 |        102 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\NewProductView.vue  | vue                |         64 |          0 |          6 |         70 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\ProductsView.vue    | vue                |         18 |          0 |          3 |         21 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\SalesView.vue       | vue                |         35 |          0 |          6 |         41 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\src\views\admin\SeederView.vue      | vue                |         69 |          0 |         24 |         93 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\tailwind.config.js                  | JavaScript         |         17 |          1 |          1 |         19 |
+| c:\Users\Anderson\Desktop\MI_FINQUITA\vite.config.js                      | JavaScript         |         13 |          1 |          3 |         17 |
+| Total                                                                     |                    |      7,625 |         11 |        792 |      8,428 |
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
